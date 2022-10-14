@@ -1,0 +1,1 @@
+%HOMEPATH%\.platformio\penv\Scripts\platformio.exe run --environment attiny85
