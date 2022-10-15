@@ -3,7 +3,7 @@ This is the TinyPad. A small USB Macro Pad based on the ATTiny85 with three butt
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gili-yankovitch/tinypad/main/hardware/TinyPad-Front.png" height="250" style="margin:5px"> <img src="https://raw.githubusercontent.com/gili-yankovitch/tinypad/main/hardware/TinyPad-Back.png" height="250">
+  <img src="https://raw.githubusercontent.com/gili-yankovitch/tinypad/main/hardware/TinyPad-Front.png" height="200"> <img src="https://raw.githubusercontent.com/gili-yankovitch/tinypad/main/hardware/TinyPad-Back.png" height="200">
 </p>
 
 ## Prerequisits
